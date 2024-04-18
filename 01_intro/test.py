@@ -15,3 +15,12 @@ printString("Function imported from another file")
 # __pycache__
 # -> works only for imported files
 # -> not for top levels files
+
+# Python Virtual Machine PVM
+# Code loop to iterate byte code
+# Run time Engine
+# Also known as Python Interpreter
+# Byte Code is NOT machine code
+# Byte Code here is Python Specific Interpretation
+# Here we uses Standard Implementation which is cPython
+# other types are -> jython, IronPython, Stackless, PyPy
