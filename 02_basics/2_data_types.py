@@ -42,6 +42,8 @@
 
 # - File : open("test.txt ")
 
+# Functions , modules and classes
+
 # Advance Types: Decorators, Generators, Iterators, MetaProgramming
 
 # This is comment
@@ -59,3 +61,7 @@ print(z)
 print(2==2)
 
 print(2+2)
+
+username = "Ali Akbar"
+print(len(username))
+print(username[0])
