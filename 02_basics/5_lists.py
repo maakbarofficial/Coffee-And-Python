@@ -31,7 +31,7 @@ users.remove("Akbar")
 print(users)
 
 users.insert(1, "New_User")
-  
+
 print(users)
 
 # Separate ref in memory
@@ -39,3 +39,6 @@ users_copy = users.copy()
 
 print(users_copy)
 print(users_copy + users)
+
+squared_nums = [x**2 for x in range(10)]
+print(squared_nums)
